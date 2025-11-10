@@ -34,17 +34,27 @@ TURMADOBEM (pasta principal do projeto)
 │  └── script.js — arquivo JavaScript com as funções e interações da página.
 │#
 ├── about.html — página “Sobre” com informações da ONG.
+#
 ├── contato.html — página de contato (formulário, e-mail ou redes sociais).
+#
 ├── faq.html — página de perguntas frequentes (FAQ).
+#
 ├── index.html — página inicial do site.
+#
 ├── members.html — página com informações sobre os membros do projeto.
+#
 └── readme.md — arquivo de texto para descrição geral do projeto ou instruções de uso.
+#
  
 
+#
 TURMADOBEM/
+#
 │
 ├── CSS/
+#
 │   └── estilo.css
+#
 │
 ├── imagens/
 │   ├── dentista.png

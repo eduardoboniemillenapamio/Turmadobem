@@ -7,6 +7,7 @@ Integrantes:
 Eduardo Boni RM 567236
 Millena Pamio RM 566664
 
+#
 
 TURMADOBEM (pasta principal do projeto)
 ├── CSS
@@ -17,7 +18,7 @@ TURMADOBEM (pasta principal do projeto)
 │  ├──  Fotoeduardo.png — imagem de uma pessoa chamada Eduardo (membro do projeto).
 │  ├──  fotomillena.jpeg — imagem de outra pessoa (Millena, membro do projeto).
 │  ├── logo.png — logotipo da ONG Turma do Bem.
-│  └── 🖼️ vergonhadosdentes.png — imagem temática relacionada ao projeto.
+│  └── vergonhadosdentes.png — imagem temática relacionada ao projeto.
 │
 ├── js
 │  └── script.js — arquivo JavaScript com as funções e interações da página.

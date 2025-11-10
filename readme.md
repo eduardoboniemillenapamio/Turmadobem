@@ -21,6 +21,7 @@ TURMADOBEM (pasta principal do projeto)
 │  ├──  dentista.png — imagem usada na parte sobre profissionais ou atendimento.
 #
 │  ├──  Fotoeduardo.png — imagem de uma pessoa chamada Eduardo (membro do projeto).
+#
 │  ├──  fotomillena.jpeg — imagem de outra pessoa (Millena, membro do projeto).
 │  ├── logo.png — logotipo da ONG Turma do Bem.
 │  └── vergonhadosdentes.png — imagem temática relacionada ao projeto.

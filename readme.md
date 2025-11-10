@@ -57,24 +57,42 @@ TURMADOBEM/
 #
 │
 ├── imagens/
+#
 │   ├── dentista.png
+#
 │   ├── Fotoeduardo.png
+#
 │   ├── fotomillena.jpeg
+#
 │   ├── logo.png
+#
 │   └── vergonhadosdentes.png
+#
 │
+#
 ├── js/
+3
 │   └── script.js
+#
 │
+#
 ├── about.html
+#
 ├── contato.html
+#
 ├── faq.html
+#
 ├── index.html
+#
 ├── members.html
+#
 └── readme.md
+#
 
 Projeto de challenge Sprint 2 de Front-End Design Engineering: 
+#
 
 Turma do Bem Link do repositório no GitHub: 
+#
 https://github.com/eduardoboniemillenapamio/Turmadobem
 

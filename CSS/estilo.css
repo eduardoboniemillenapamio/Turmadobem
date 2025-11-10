@@ -6,7 +6,6 @@
     font-size: 10px;
 }
 
-/* RESET */
 * {
     margin: 0;
     padding: 0;
@@ -29,14 +28,12 @@ body {
     overflow-x: hidden;
 }
 
-/* SEÇÕES GERAIS */
 section {
     padding: 4rem 2rem;
     margin: 0 auto;
     max-width: 1200px;
 }
 
-/* HEADER FIXO */
 header {
     position: fixed;
     top: 0;
@@ -65,7 +62,6 @@ header .logo img {
     width: auto;
 }
 
-/* NAVBAR */
 .navbar {
     display: flex;
     gap: 1.5rem;
@@ -85,7 +81,6 @@ header .logo img {
     padding-bottom: 0.3rem;
 }
 
-/* ÍCONES */
 .icons img {
     margin: 1rem;
     cursor: pointer;
@@ -96,7 +91,6 @@ header .logo img {
     transform: scale(1.2);
 }
 
-/* BOTÕES PADRÃO */
 .btn {
     background: var(--main-color);
     color: #000;
@@ -112,7 +106,6 @@ header .logo img {
     letter-spacing: 0.1rem;
 }
 
-/* HOME */
 .home-container {
     background: url("../imagens/vergonhadosdentes.png");
     min-height: calc(100vh - 90px);
@@ -144,7 +137,6 @@ header .logo img {
     padding: 1rem 0;
 }
 
-/* TÍTULOS GERAIS */
 .tittle {
     margin-top: 120px;
     font-size: 5rem;
@@ -153,7 +145,6 @@ header .logo img {
     margin-bottom: 4rem;
 }
 
-/* SOBRE */
 .about {
     padding-top: 140px;
 }
@@ -189,7 +180,6 @@ header .logo img {
     margin-top: 1rem;
 }
 
-/* FAQ */
 .faq {
     display: flex;
     flex-direction: column;
@@ -232,7 +222,6 @@ details p {
     font-size: 1.6rem;
 }
 
-/* CONTATO */
 .contato {
     display: flex;
     justify-content: center;
@@ -295,7 +284,6 @@ details p {
     background: rgb(170, 175, 0);
 }
 
-/* MEMBROS */
 .members-section {
     padding-top: 140px;
     text-align: center;
@@ -350,7 +338,6 @@ details p {
     transform: translateY(-2px);
 }
 
-/* FOOTER */
 footer {
     background: #c7cd02;
     text-align: center;
@@ -360,7 +347,6 @@ footer {
     margin-top: auto;
 }
 
-/* MENU HAMBURGUER */
 .menu-toggle {
     display: none;
     flex-direction: column;
@@ -390,7 +376,6 @@ footer {
     background: var(--main-color);
 }
 
-/* RESPONSIVIDADE */
 @media (max-width: 992px) {
     html { font-size: 9px; }
 

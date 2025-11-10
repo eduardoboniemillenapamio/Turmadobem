@@ -14,6 +14,7 @@ TURMADOBEM (pasta principal do projeto)
 ├── CSS
 #
 │  └── estilo.css — arquivo que contém os estilos e formatações do site (cores, tamanhos, layout etc.).
+#
 │
 ├── imagens
 │  ├──  dentista.png — imagem usada na parte sobre profissionais ou atendimento.

@@ -29,6 +29,7 @@ TURMADOBEM (pasta principal do projeto)
 │  └── vergonhadosdentes.png — imagem temática relacionada ao projeto.
 │
 ├── js
+#
 │  └── script.js — arquivo JavaScript com as funções e interações da página.
 │
 ├── about.html — página “Sobre” com informações da ONG.

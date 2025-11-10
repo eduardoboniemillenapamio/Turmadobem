@@ -32,7 +32,7 @@ TURMADOBEM (pasta principal do projeto)
 ├── js
 #
 │  └── script.js — arquivo JavaScript com as funções e interações da página.
-│
+│#
 ├── about.html — página “Sobre” com informações da ONG.
 ├── contato.html — página de contato (formulário, e-mail ou redes sociais).
 ├── faq.html — página de perguntas frequentes (FAQ).
